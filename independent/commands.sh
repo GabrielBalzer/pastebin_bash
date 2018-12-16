@@ -5,7 +5,7 @@ readonly VERSION=0.0.1
 readonly SCRIPT_NAME=${0##*/}
 readonly TEMP=
 ##########################
-
+##GitTest###
 function help_command() {
 cat <<END;
 #################################################################################
