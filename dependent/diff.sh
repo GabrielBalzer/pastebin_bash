@@ -24,7 +24,7 @@ function diff_log(){
 	if [ -f $tempdatei1 ]; then
 		var1=1
 	else
-		echo "Datei $tempdatei1 nicht vorhanden."
+		echo "Datei $tempdatei1 nicht vorhanden!"
 	fi
 	if [ -f $tempdatei2 ]; then
 		var1=1
